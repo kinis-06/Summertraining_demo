@@ -68,7 +68,7 @@ class CroppedImageProcessor:
         cv2.imshow('gray', gray)
 
         # 二值化
-        thresh_value = 50
+        thresh_value = 95
         _, binary = cv2.threshold(gray, thresh_value, 255, cv2.THRESH_BINARY)
 
         # 腐蚀操作
