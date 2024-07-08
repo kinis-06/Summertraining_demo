@@ -99,16 +99,16 @@ for file_name in file_names:
 
 ## 3.效果展示
 
-<img src="./images/0abcb41e28bccb1ba92a6897029f4d3.png" style="zoom:25%;" />
+<img src="./assets/0abcb41e28bccb1ba92a6897029f4d3.png" style="zoom:25%;" />
 
-<img src="./images/6a2fbb12284bda24baa861820916fd5.png" style="zoom:25%;" />
+<img src="./assets/6a2fbb12284bda24baa861820916fd5.png" style="zoom:25%;" />
 
-<img src="./images/6f077fc7b8ca9df5c812e1a7d1f6045.png" style="zoom: 25%;" />
+<img src="./assets/6f077fc7b8ca9df5c812e1a7d1f6045.png" style="zoom: 25%;" />
 
-<img src="./images/08c0029160454bb736847e1d23989db.png" style="zoom:25%;" />
+<img src="./assets/08c0029160454bb736847e1d23989db.png" style="zoom:25%;" />
 
-<img src="./images/6323e594b6a33b419a35fc8166d8b71.png" style="zoom:25%;" />
+<img src="./assets/6323e594b6a33b419a35fc8166d8b71.png" style="zoom:25%;" />
 
-<img src="./images/8276bed3af740df6ec98e97d87fd3e3.png" style="zoom:25%;" />
+<img src="./assets/8276bed3af740df6ec98e97d87fd3e3.png" style="zoom:25%;" />
 
-<img src="./images/9298f81dec13b2fd46eac49e916278f.png" style="zoom:25%;" />
+<img src="./assets/9298f81dec13b2fd46eac49e916278f.png" style="zoom:25%;" />
